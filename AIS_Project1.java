@@ -4,7 +4,7 @@ public class AIS_Project1
     {
         for(int i=1; i<=10; i++)
         {
-            System.out.println("Welcome AIS: " + i + "times");
+            System.out.println("Welcome AIS: counter " + i + "times");
         }
     }
 }
